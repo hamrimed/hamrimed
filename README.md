@@ -15,7 +15,7 @@ If you have a project that could use a developer with a strong foundation in Jav
 - Experience with database design and development using SQL
 - Familiar with agile development methodologies and lean management
 - Experience with DevOps tools such as Jenkins and Docker
-- Knowledge of business intelligence tools such as Tableau and Power BI
+- Knowledge of business intelligence tools such as Talend and Power BI
 
 # Personal Interests
 
